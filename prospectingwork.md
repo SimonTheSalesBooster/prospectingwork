@@ -86,56 +86,85 @@ What does their pricing say about who they're for? Are they premium but messagin
 **Lens 5 — The Competitor Blind Spot:**
 What are competitors NOT saying that this company could own? Every market has white space. Identify one positioning angle that's available and authentic to this company.
 
-### Step 4: Write the diagnosis document
+### Step 4: Write the email
 
-Produce a document with this EXACT structure. One page max. 150-250 words.
+**Subject line:** `{first name}` — just their first name, lowercase. Nothing else.
 
-```
-POSITIONING DIAGNOSTIC: {Company Name}
+**Opening line:** Pick the style that fits the research you found. Three proven openers:
 
-I looked at your website, your content, and your competitive landscape.
-Here are three things I noticed.
-
-1. {FINDING — THE STRENGTH THEY DON'T KNOW THEY HAVE}
-{2-3 sentences. Something specific from their founder's content or voice that is MORE compelling than their website copy. Quote them back to themselves.}
-
-2. {FINDING — THE GAP THAT'S COSTING THEM}
-{2-3 sentences. A specific positioning weakness — generic headline, buried differentiator, ICP too broad, pricing/messaging mismatch. Reference the actual words on their site.}
-
-3. {FINDING — THE MOVE NOBODY IN THEIR SPACE IS MAKING}
-{2-3 sentences. The white space in their market. What they could own that competitors aren't claiming. This is the insight that makes them think "how did he see that?"}
-
----
-{Your Name}
-```
-
-### Step 5: Write the email
-
-**Subject line:** `{their company name} positioning` — lowercase, no tricks, no curiosity gaps.
-
-**Body:**
+**Opener A — The provocative number** (best when you found a specific metric):
 ```
 {First Name},
 
-I ran a positioning diagnostic on {Company}. Unsolicited — I was curious.
-
-{Paste the full diagnosis from Step 4}
+Your homepage subheadline is 42 words long. Gong's is 6. Here's what I'd change 🐬
 ```
 
-That's it. Nothing else.
+**Opener B — The founder quote** (best when the founder is active on content):
+```
+{First Name},
+
+You told an interviewer: "one very simple wedge." Your website tells a different story. I wrote down what I'd fix 🐬
+```
+
+**Opener C — The straight shot** (works for anyone):
+```
+{First Name},
+
+Three positioning gaps in {Company}'s website. One of them is costing you every visitor who leaves in under 8 seconds 🐬
+```
+
+**The body — three findings with proposed new language:**
+
+Each finding must include: diagnosis + a concrete "What if instead →" with actual proposed copy they could use.
+
+```
+⚡️ **{Finding 1 — the strength they don't know they have}**
+{2-3 sentences. Quote the founder back to themselves. Show the gap between their voice and their website.}
+
+What if instead → **"{Proposed new headline or copy — specific, ready to paste}"**
+{1 sentence why this is better.}
+
+⚡️ **{Finding 2 — the gap that's costing them}**
+{2-3 sentences. Reference actual words on their site. Use numbers, word counts, competitor names.}
+
+What if instead → **"{Proposed new copy — tighter, sharper, ownable}"**
+{1 sentence why this is better.}
+
+🐯 **{Finding 3 — the move nobody is making → own "{category}"}**
+{2-3 sentences. Name the white space. Make it contrarian, true, and available.}
+
+What if instead → **"{Proposed positioning statement they could own}"**
+Contrarian. True. Available.
+```
+
+**The closing question** — one sharp Ogilvy-style question that haunts them:
+```
+Here's the question I can't shake: {a specific, uncomfortable question about their positioning that they'll think about for days}
+```
+
+**Sign-off:**
+```
+—
+{Your Name}
+CEO, Strategy Sprints™ → strategysprints.com
+Author of Strategy Sprints (Kogan Page) and Time Freedom with Jay Abraham
+```
 
 ### HARD CONSTRAINTS
 
 1. **No pitch. Zero.** No mention of services, coaching, workshops, or anything that smells like selling.
 2. **No Calendly link.** No CTA of any kind. No "let me know if you'd like to discuss."
-3. **No signature block.** Just your name — no title, no website, no social links.
-4. **No compliments.** Don't open with "I love what you're building." Open with the work.
-5. **Be specific enough to be wrong.** Vague praise is safe. Specific diagnosis is risky. That's why it works.
-6. **Use THEIR language.** Quote their own words. Reference their actual homepage copy. Name their competitors.
-7. **Finding 1 must be positive.** Lead with their strength — specifically what the founder said that's better than the website.
-8. **Finding 2 must be actionable.** Not "your positioning could be stronger" but "your headline says X, your competitor says Y, and neither says Z."
-9. **Finding 3 must be surprising.** The insight they haven't heard from anyone else.
-10. **Total length: 150-250 words.** Not a report. A diagnosis. Dense, sharp, done.
+3. **No compliments.** Don't open with "I love what you're building." Open with the work.
+4. **Be specific enough to be wrong.** Vague praise is safe. Specific diagnosis is risky. That's why it works.
+5. **Use THEIR language.** Quote their own words. Reference their actual homepage copy. Name their competitors.
+6. **Every finding must include proposed new language.** Don't just diagnose — prescribe. "What if instead →" with actual copy they could paste.
+7. **Finding 1 must be positive.** Lead with their hidden strength.
+8. **Finding 2 must be actionable.** Numbers, word counts, competitor comparisons.
+9. **Finding 3 must be surprising.** Name a category that doesn't exist yet.
+10. **End with ONE sharp question.** The kind that keeps them up at night.
+11. **Use .. and ... for pauses.** Use → for transitions. Use brackets for asides. Use ⚡️ 🐯 🐬 emojis.
+12. **Write like a human, not a robot.** Short fragments. White space. Imperfect punctuation. No corporate tone.
+13. **Total length: 200-300 words.** Dense, visual, sharp.
 
 ### Step 6: Create Gmail draft
 
@@ -166,38 +195,69 @@ No follow-up needed. The work speaks or it doesn't.
 
 ## Real Example: Attention (Anis Bennaceur)
 
-This is an actual positioning diagnostic that was sent. Study the structure, specificity, and tone.
+This is an actual positioning diagnostic. Study the tone, the visuals, the proposed language.
 
-**Subject:** attention positioning
+**Subject:** anis
 
 **Email:**
 
 Anis,
 
-I ran a positioning diagnostic on Attention. Unsolicited — I was curious.
+Your homepage subheadline is 42 words long. Gong's is 6. Here's what I'd change 🐬
 
-POSITIONING DIAGNOSTIC: Attention
+⚡️ **Your wedge is sharper than your headline**
+You said in interviews: "one very simple wedge.. what is happening in your sales deals, and how do we move that data into your CRM?" That's the real thing. But your homepage says "AI agents that learn from your best sales conversations" → Gong, Chorus, Fathom could all say that.
 
-I looked at your website, your content, and your competitive landscape.
-Here are three things I noticed.
+What if instead → **"We move your call data into your CRM before you hang up."**
+Your voice > your website right now.
 
-1. YOUR WEDGE IS SHARPER THAN YOUR HEADLINE
-In interviews you describe Attention as starting with "one very simple wedge: what is happening in your sales deals, and how do we move that data from your calls into your CRM?" That's specific. That's a problem every sales leader loses sleep over. But your homepage says "AI agents that learn from your best sales conversations" — which Gong, Chorus, and Fathom could all claim. The founder voice is clearer than the website voice.
+⚡️ **Your subheadline is doing damage**
+42 words long. Six capabilities. A VP of Sales scanning in 4 seconds reads: records... learns... automates... follow-ups... CRM updates... coaching scorecards... → that's a feature inventory, not a position. Gong owns "revenue intelligence." Salesloft owns "revenue orchestration." What single phrase does Attention own? (right now.. nothing)
 
-2. YOUR SUBHEADLINE IS DOING DAMAGE
-Your hero subheadline is 42 words long and lists six different capabilities. A VP of Sales scanning your site in 4 seconds reads "records... learns... automates... follow-ups... CRM updates... coaching scorecards... and more." That's a feature inventory, not a position. Gong owns "revenue intelligence." Salesloft owns "revenue orchestration." What single phrase does Attention own? Right now, nothing — because the site is trying to own everything.
+What if instead → **"Every sales conversation.. captured, scored, and acted on. Automatically."**
+One line. Three verbs. Done.
 
-3. THE MOVE NOBODY IS MAKING: OWN "POST-CALL"
-You said yourself that all your users actually leverage the post-call capabilities — not real-time. Every competitor is racing toward live coaching and real-time AI. If that's not where your users get the most value, why compete there? The category "post-call revenue automation" has no owner. You could be the company that says: what happens after the call matters more than what happens during it. That's contrarian, it's true for your users, and nobody else is saying it.
+🐯 **The move nobody is making → own "post-call"**
+Your users actually leverage the post-call capabilities — not real-time. Every competitor is racing toward live coaching. But if that's not where your users get value.. why compete there? "Post-call revenue automation" has no owner.
 
----
+What if instead → **"What happens after the call matters more than what happens during it."**
+Contrarian. True. Available.
+
+Here's the question I can't shake: if a VP of Sales lands on your homepage and leaves in 8 seconds.. what's the ONE sentence they take with them?
+
+—
 Simon Severino
+CEO, Strategy Sprints™
+Author of *Strategy Sprints* (Kogan Page) and *Time Freedom* with Jay Abraham
 
 **Why this works:**
-- Finding 1 quotes Anis back to himself — proves research depth
-- Finding 2 counts the words in his subheadline (42) — proves specificity
-- Finding 3 names a category that doesn't exist yet — proves strategic thinking
-- Zero pitch. Zero CTA. Zero links. Just the work.
+- Opens with a provocative number contrast (42 vs 6) — impossible to ignore
+- Each finding includes "What if instead →" with actual copy he could paste tomorrow
+- Uses .. and → and 🐬 ⚡️ 🐯 — feels human, not templated
+- Closes with a question that haunts: the 8-second test
+- Zero pitch. Zero CTA. Zero links. Just the work + proposed fixes.
+
+---
+
+## Three Proven Openers (pick the one that fits your research)
+
+### Opener A — The Provocative Number
+> Your homepage subheadline is 42 words long. Gong's is 6. Here's what I'd change 🐬
+
+*Best when:* you found a specific metric, word count, or competitor comparison.
+*Why it works:* Two numbers. One contrast. Impossible not to keep reading.
+
+### Opener B — The Founder Quote
+> You told an interviewer: "one very simple wedge." Your website tells a different story. I wrote down what I'd fix 🐬
+
+*Best when:* the founder is active on content (podcast, LinkedIn, blog).
+*Why it works:* Quoting them back to themselves in the first line proves research depth.
+
+### Opener C — The Straight Shot
+> Three positioning gaps in {Company}'s website. One of them is costing you every visitor who leaves in under 8 seconds 🐬
+
+*Best when:* you don't have a strong quote or number — works for anyone.
+*Why it works:* "Costing you" leads with self-interest. The 8-second specificity makes it feel measured.
 
 ---
 
