@@ -1,6 +1,6 @@
-# The most effective prospecting email contains zero selling.
+# The most effective prospecting email is 95% work, 5% ask.
 
-No pitch. No CTA. No Calendly link. Just a positioning diagnostic — done for free, unsolicited, sent as a gift.
+A positioning diagnostic — done for free, unsolicited, sent as a gift. One soft CTA at the very end.
 
 If it's sharp, they reply. If it isn't, no follow-up would have saved it.
 
@@ -8,7 +8,7 @@ If it's sharp, they reply. If it isn't, no follow-up would have saved it.
 
 ## What happens when you send one
 
-You research a prospect's website, find three positioning gaps, write proposed new copy for each one, and email it to the founder. No ask. No signature block beyond your name.
+You research a prospect's website, find three positioning gaps, write proposed new copy for each one, and email it to the founder. One soft ask at the end: "30 minutes.. for free.. pick your best time."
 
 **Early results across 50+ diagnostics sent to Series A+ founders:**
 
@@ -27,52 +27,53 @@ You research a prospect's website, find three positioning gaps, write proposed n
 
 **Subject:** their first name. lowercase. nothing else.
 
-**Opening:** one provocative line that proves you did the research.
+**Opening:** `{Name}, {three contradictions from their site}. Here is my proposal:` — straight into the work. No emoji in opener.
 
-**Three findings.** Each ends with **"What if instead →"** and proposed copy they could paste tomorrow.
+**Three findings (⚡️⚡️🐯).** Each ends with **"What if instead →"** and proposed copy they could paste tomorrow. Finding 3 goes deeper — acquisitions, dollar amounts, market window.
 
-**One closing question.** The kind that haunts.
+**One closing question in italic.** The kind that haunts.
 
-**Sign-off:** name, title, one line. That's it.
+**CTA:** "I'd love to put another 30 minutes into strategizing with you. for free. Pick your best time:" + Calendly link.
 
-**Length:** 200-300 words. Dense, visual, sharp.
+**Sign-off:** name / CEO title + URL / author line.
+
+**Length:** 250-350 words. Dense, visual, sharp.
 
 ---
 
-## Real example #1: Attention (Opener A — The Provocative Number)
+## Real example #1: Celonis (gold standard — sent 2026-03-24)
 
-**Subject:** anis
+**Subject:** bastian
 
-Anis,
+Bastian, your headline says "AI layer." Your body copy says "process mining." Your CTA says "Try for free." Three identities, one page. Here is my proposal:
+⚡️ **You buried the best frame on the internet**
+"The missing layer in your AI stack" — that's a category-defining statement. It repositions Celonis from a process mining tool (shrinking category, competitors getting acquired by SAP, Microsoft, IBM) to an AI infrastructure layer (massive growing market). But below that headline.. the page reverts to process mining language. Supply chain optimization. Working capital. Service levels. Those are legitimate use cases, but they belong to the old positioning.
 
-Your homepage subheadline is 42 words long. Gong's is 6. Here's what I'd change 🐬
+What if instead → **"Enterprise AI fails when it doesn't understand how your business actually runs. We fix that."**
+Problem-first. Conversational. Creates urgency. The current headline is a thesis statement. This one is a door.
 
-⚡️ **Your wedge is sharper than your headline**
-You said in interviews: "one very simple wedge.. what is happening in your sales deals, and how do we move that data into your CRM?" That's the real thing. But your homepage says "AI agents that learn from your best sales conversations" → Gong, Chorus, Fathom could all say that.
+⚡️ **"Try for free" is the wrong CTA for your buyer**
+Your customers are Mercedes-Benz, enterprise banking, automotive. A VP of Digital Transformation at Mercedes doesn't want to "try for free" — they want to see proof at their scale. "Try for free" signals self-serve mid-market. It belongs to the process mining era, when you were competing with tools. *You're competing with platforms now.*
 
-What if instead → **"We move your call data into your CRM before you hang up."**
-Your voice > your website right now.
+What if instead → **"See how Mercedes-Benz uses Process Intelligence to run AI across 30+ factories."**
+Social proof. Specificity. Aspiration. Enterprise buyers buy outcomes, not free trials.
 
-⚡️ **Your subheadline is doing damage**
-42 words long. Six capabilities. A VP of Sales scanning in 4 seconds reads: records... learns... automates... follow-ups... CRM updates... coaching scorecards... → that's a feature inventory, not a position. Gong owns "revenue intelligence." Salesloft owns "revenue orchestration." What single phrase does Attention own? (right now.. nothing)
+🐯 **The move nobody sees → you're the last independent player**
+Signavio → acquired by SAP for $1.2B. Minit → acquired by Microsoft. Myinvenio → acquired by IBM. Every major competitor got absorbed into a larger platform story. Celonis is the last standalone process intelligence company. Your independence is either a vulnerability or a weapon.. depending on how you frame it. Right now the website doesn't frame it at all.
 
-What if instead → **"Every sales conversation.. captured, scored, and acted on. Automatically."**
-One line. Three verbs. Done.
+What if instead → **"Every other process mining company got acquired. We stayed independent. Here's why that matters for your data."**
+Independence means vendor-neutral. It means your process data doesn't get locked into one cloud ecosystem. That's a story SAP Signavio literally cannot tell. You have maybe 12-18 months before the acquirers start claiming "AI infrastructure layer" too.
 
-🐯 **The move nobody is making → own "post-call"**
-Your users actually leverage the post-call capabilities — not real-time. Every competitor is racing toward live coaching. But if that's not where your users get value.. why compete there? "Post-call revenue automation" has no owner.
+Here's the question I can't shake: when SAP tells your prospects "we have process mining built in now".. *what's the one sentence that makes them pause and say "but that's not the same thing"?*
 
-What if instead → **"What happens after the call matters more than what happens during it."**
-Contrarian. True. Available.
+I'd love to put another 30 minutes into strategizing with you. for free. Pick your best time:
+https://calendly.com/simonseverino/coffee-with-simon
 
-Here's the question I can't shake: if a VP of Sales lands on your homepage and leaves in 8 seconds.. what's the ONE sentence they take with them?
-
-—
 Simon Severino
 CEO, Strategy Sprints™ → strategysprints.com
-Author of *Strategy Sprints* and *Time Freedom* with Jay Abraham
+Author of Strategy Sprints (Kogan Page) and Time Freedom with Jay Abraham
 
-**Why this works:** Opens with a number contrast (42 vs 6) that's impossible to ignore. Each finding gives them copy they can paste. Closes with a question they'll think about for days. Zero pitch.
+**Why this works:** Opens with three contradictions on their own page. "Here is my proposal:" signals generosity. Finding 3 goes deep — names acquisitions, dollar amounts, market window. CTA is soft and generous at the very end.
 
 ---
 
@@ -82,8 +83,7 @@ Author of *Strategy Sprints* and *Time Freedom* with Jay Abraham
 
 Romain,
 
-Three positioning gaps in Gorgias's website. One of them is hiding your best edge from every visitor who scrolls past the hero 🐬
-
+Three positioning gaps in Gorgias's website. One of them is hiding your best edge from every visitor who scrolls past the hero 
 ⚡️ **You're the only support platform that generates revenue — but you don't say it**
 Your headline: "The Conversational AI platform for Ecommerce." Every chatbot vendor says conversational AI. But Zendesk is support. Intercom is support + some marketing. Gorgias is support that sells. That's your edge.. and it's buried.
 
@@ -119,8 +119,7 @@ Author of *Strategy Sprints* and *Time Freedom* with Jay Abraham
 
 Amit,
 
-Your State of Revenue AI report says teams using Gong generate 77% more revenue per rep. Your homepage doesn't. Here's what I'd fix 🐬
-
+Your State of Revenue AI report says teams using Gong generate 77% more revenue per rep. Your homepage doesn't. Here's what I'd fix 
 ⚡️ **Your best proof point is hiding behind a PDF download**
 77% more revenue per rep. That's your strongest number. But it lives in a gated report, not above the fold. Your homepage leads with "The #1 AI operating system for Revenue Teams" — a claim. The 77% is a proof. Claims get skipped. Proof stops the scroll.
 
@@ -155,18 +154,15 @@ Author of *Strategy Sprints* and *Time Freedom* with Jay Abraham
 Pick the one that fits your research. **Default to A** (it works most often).
 
 ### Opener A — The Provocative Number _(default)_
-> Your homepage subheadline is 42 words long. Gong's is 6. Here's what I'd change 🐬
-
+> Your homepage subheadline is 42 words long. Gong's is 6. Here's what I'd change 
 Best when you found a specific metric, word count, or competitor comparison. Two numbers, one contrast — impossible not to keep reading.
 
 ### Opener B — The Founder Quote / Research Proof
-> You told an interviewer: "one very simple wedge." Your website tells a different story. I wrote down what I'd fix 🐬
-
+> You told an interviewer: "one very simple wedge." Your website tells a different story. I wrote down what I'd fix 
 Best when the founder is active on content or has published data. Quoting them back to themselves proves research depth.
 
 ### Opener C — The Straight Shot
-> Three positioning gaps in {Company}'s website. One of them is costing you every visitor who leaves in under 8 seconds 🐬
-
+> Three positioning gaps in {Company}'s website. One of them is costing you every visitor who leaves in under 8 seconds 
 Best when you don't have a strong quote or number. "Costing you" leads with self-interest. Works for anyone.
 
 ---
@@ -174,7 +170,7 @@ Best when you don't have a strong quote or number. "Costing you" leads with self
 ## The 13 rules
 
 1. **No pitch. Zero.** No mention of services, coaching, or anything that smells like selling
-2. **No CTA.** No Calendly, no "let me know," no links in the body
+2. **CTA at the end.** "I'd love to put another 30 minutes into strategizing with you. for free." + Calendly coffee link
 3. **No compliments.** Open with the work, not "I love what you're building"
 4. **Be specific enough to be wrong.** That's why it works
 5. **Use their language.** Quote their own words. Name their competitors
@@ -183,7 +179,7 @@ Best when you don't have a strong quote or number. "Costing you" leads with self
 8. **Finding 2 = the gap that's costing them.** Numbers, word counts, comparisons
 9. **Finding 3 = the move nobody is making.** Name a category that doesn't exist yet
 10. **End with one sharp question.** The kind that keeps them up at night
-11. **Use `..` for pauses, `→` for transitions, `⚡️ 🐯 🐬` for visual rhythm**
+11. **Use `..` for pauses, `→` for transitions, `⚡️` for findings 1-2, `🐯` for finding 3. No other emojis**
 12. **Write like a human.** Short fragments. White space. Imperfect punctuation
 13. **200-300 words.** Dense, visual, sharp. Not a report — a diagnosis
 
@@ -191,13 +187,11 @@ Best when you don't have a strong quote or number. "Costing you" leads with self
 
 ## When they reply
 
-The diagnostic has no CTA. But when they reply (and they will), here's the move:
+The diagnostic has a soft CTA at the end. When they reply:
 
-1. **Acknowledge what they said.** Don't pivot to a pitch. Respond to their actual words.
-2. **Offer 30 minutes.** "Want to riff on this for 30 minutes? Here's my calendar: [Calendly link]"
+1. **Acknowledge what they said.** Don't pivot to a harder pitch. Respond to their actual words.
+2. **Confirm the 30-minute call.** The CTA already offered it. Just confirm.
 3. **That's it.** The diagnostic earned the trust. The call earns the relationship. The relationship earns the work.
-
-The sale doesn't start at the diagnostic — it starts at the reply. Don't ruin it by rushing.
 
 ---
 
