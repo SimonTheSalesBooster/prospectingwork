@@ -1,152 +1,209 @@
-# /prospectingwork — Positioning Diagnostic Prospecting
+# The most effective prospecting email contains zero selling.
 
-**The most effective prospecting email contains zero selling — except the CTA.**
+No pitch. No CTA. No Calendly link. Just a positioning diagnostic — done for free, unsolicited, sent as a gift.
 
-Run `/prospectingwork {company name}` and get a complete positioning diagnostic delivered as a gift email — no pitch, just the work + a Calendly link at the end. The work IS the proof.
-
-Built by [Strategy Sprints](https://strategysprints.com). Used daily by our team of 256 founders from Los Angeles to Singapore.
+If it's sharp, they reply. If it isn't, no follow-up would have saved it.
 
 ---
 
-## What It Does
+## What happens when you send one
 
-1. **Deep-researches** a prospect's business (website, founder interviews, competitors, pricing, LinkedIn)
-2. **Runs a 5-lens positioning diagnostic** (Headline Test, "Why You?" Test, Language Gap, Pricing Signal, Competitor Blind Spot)
-3. **Writes a diagnosis with proposed new language** — not just what's wrong, but what to say instead ("What if instead →")
-4. **Drafts a Gmail email** — no pitch, just the work + concrete fixes + Calendly CTA at the end
-5. **Saves the research** for content reuse (LinkedIn posts, YouTube scripts, workshops)
+You research a prospect's website, find three positioning gaps, write proposed new copy for each one, and email it to the founder. No ask. No signature block beyond your name.
 
----
+**Early results across 50+ diagnostics sent to Series A+ founders:**
 
-## The Email Format
+| Metric | Number |
+|---|---|
+| Avg reply rate | _[tracking — update after 30 sends]_ |
+| Replies → calls | _[tracking]_ |
+| Calls → clients | _[tracking]_ |
+| Avg time to reply | _[tracking]_ |
 
-**Subject line:** just their first name. lowercase. nothing else.
-
-**Opening line:** `{Name}, {provocative contradiction about their site}. Here is my proposal:` — straight into the work, no emoji in opener.
-
-**Three findings.** Each one ends with proposed new copy they could paste tomorrow. Finding 3 goes deeper — specific data, dollar amounts, market moves.
-
-**One sharp closing question.** The kind that haunts. Use *italic emphasis*.
-
-**CTA:** `I'd love to put another 30 minutes into strategizing with you. for free. Pick your best time:` + Calendly link.
-
-**Sign-off:** Name / title / URL / books. That's it.
+> *If you're using this skill, track your numbers and update this table. The method is only as good as its proof.*
 
 ---
 
-## Real Example: Celonis (Bastian Nominacher)
+## The email format
 
-This is an actual email that was sent 2026-03-24:
+**Subject:** their first name. lowercase. nothing else.
 
-**Subject:** bastian
+**Opening:** one provocative line that proves you did the research.
+
+**Three findings.** Each ends with **"What if instead →"** and proposed copy they could paste tomorrow.
+
+**One closing question.** The kind that haunts.
+
+**Sign-off:** name, title, one line. That's it.
+
+**Length:** 200-300 words. Dense, visual, sharp.
 
 ---
 
-Bastian, your headline says "AI layer." Your body copy says "process mining." Your CTA says "Try for free." Three identities, one page. Here is my proposal:
+## Real example #1: Attention (Opener A — The Provocative Number)
 
-⚡️ **You buried the best frame on the internet**
-"The missing layer in your AI stack" — that's a category-defining statement. It repositions Celonis from a process mining tool (shrinking category, competitors getting acquired by SAP, Microsoft, IBM) to an AI infrastructure layer (massive growing market). But below that headline.. the page reverts to process mining language. Supply chain optimization. Working capital. Service levels. Those are legitimate use cases, but they belong to the old positioning.
+**Subject:** anis
 
-What if instead → **"Enterprise AI fails when it doesn't understand how your business actually runs. We fix that."**
-Problem-first. Conversational. Creates urgency. The current headline is a thesis statement. This one is a door.
+Anis,
 
-⚡️ **"Try for free" is the wrong CTA for your buyer**
-Your customers are Mercedes-Benz, enterprise banking, automotive. A VP of Digital Transformation at Mercedes doesn't want to "try for free" — they want to see proof at their scale. "Try for free" signals self-serve mid-market. It belongs to the process mining era, when you were competing with tools. You're competing with platforms now.
+Your homepage subheadline is 42 words long. Gong's is 6. Here's what I'd change 🐬
 
-What if instead → **"See how Mercedes-Benz uses Process Intelligence to run AI across 30+ factories."**
-Social proof. Specificity. Aspiration. Enterprise buyers buy outcomes, not free trials.
+⚡️ **Your wedge is sharper than your headline**
+You said in interviews: "one very simple wedge.. what is happening in your sales deals, and how do we move that data into your CRM?" That's the real thing. But your homepage says "AI agents that learn from your best sales conversations" → Gong, Chorus, Fathom could all say that.
 
-🐯 **The move nobody sees → you're the last independent player**
-Signavio → acquired by SAP for $1.2B. Minit → acquired by Microsoft. Myinvenio → acquired by IBM. Every major competitor got absorbed into a larger platform story. Celonis is the last standalone process intelligence company. Your independence is either a vulnerability or a weapon.. depending on how you frame it. Right now the website doesn't frame it at all.
+What if instead → **"We move your call data into your CRM before you hang up."**
+Your voice > your website right now.
 
-What if instead → **"Every other process mining company got acquired. We stayed independent. Here's why that matters for your data."**
-Independence means vendor-neutral. It means your process data doesn't get locked into one cloud ecosystem. That's a story SAP Signavio literally cannot tell. You have maybe 12-18 months before the acquirers start claiming "AI infrastructure layer" too.
+⚡️ **Your subheadline is doing damage**
+42 words long. Six capabilities. A VP of Sales scanning in 4 seconds reads: records... learns... automates... follow-ups... CRM updates... coaching scorecards... → that's a feature inventory, not a position. Gong owns "revenue intelligence." Salesloft owns "revenue orchestration." What single phrase does Attention own? (right now.. nothing)
 
-Here's the question I can't shake: *when SAP tells your prospects "we have process mining built in now".. what's the one sentence that makes them pause and say "but that's not the same thing"?*
+What if instead → **"Every sales conversation.. captured, scored, and acted on. Automatically."**
+One line. Three verbs. Done.
 
-I'd love to put another 30 minutes into strategizing with you. for free. Pick your best time:
-https://calendly.com/simonseverino/coffee-with-simon
+🐯 **The move nobody is making → own "post-call"**
+Your users actually leverage the post-call capabilities — not real-time. Every competitor is racing toward live coaching. But if that's not where your users get value.. why compete there? "Post-call revenue automation" has no owner.
 
+What if instead → **"What happens after the call matters more than what happens during it."**
+Contrarian. True. Available.
+
+Here's the question I can't shake: if a VP of Sales lands on your homepage and leaves in 8 seconds.. what's the ONE sentence they take with them?
+
+—
 Simon Severino
 CEO, Strategy Sprints™ → strategysprints.com
-Author of *Strategy Sprints* (Kogan Page) and *Time Freedom* with Jay Abraham
+Author of *Strategy Sprints* and *Time Freedom* with Jay Abraham
+
+**Why this works:** Opens with a number contrast (42 vs 6) that's impossible to ignore. Each finding gives them copy they can paste. Closes with a question they'll think about for days. Zero pitch.
 
 ---
 
-### Why This Works
+## Real example #2: Gorgias (Opener C — The Straight Shot)
 
-- Opens with a provocative contradiction (three identities, one page) — impossible to ignore
-- No name-on-its-own-line, no emoji in opener — straight into the work with "Here is my proposal:"
-- Each finding includes "What if instead →" with actual copy he could paste tomorrow
-- Finding 3 goes deep — specific acquisitions, dollar amounts, timeline pressure
-- Uses `..` and `→` and ⚡️ 🐯 — feels human, not templated
-- Closes with a *italicized* question that haunts
-- CTA at the end: "I'd love to put another 30 minutes into strategizing with you. for free." + Calendly link
-- The work comes first. The ask comes last. The ratio is 95% value, 5% CTA.
+**Subject:** romain
+
+Romain,
+
+Three positioning gaps in Gorgias's website. One of them is hiding your best edge from every visitor who scrolls past the hero 🐬
+
+⚡️ **You're the only support platform that generates revenue — but you don't say it**
+Your headline: "The Conversational AI platform for Ecommerce." Every chatbot vendor says conversational AI. But Zendesk is support. Intercom is support + some marketing. Gorgias is support that sells. That's your edge.. and it's buried.
+
+What if instead → **"The only support platform that pays for itself."**
+Falsifiable claim. Competitors can't match it.
+
+⚡️ **Your CTA is invisible**
+"Start free trial" — every SaaS site on earth. A VP of Ecommerce scanning your page doesn't feel urgency, doesn't feel specificity. You're asking them to try. You should be asking them to see.
+
+What if instead → **"See how support becomes revenue."**
+Outcome-driven. Pre-qualifies the right buyer.
+
+🐯 **Two products hiding inside one brand**
+$10/mo Starter (50 tickets) to $750/mo Advanced (5,000 tickets). That's a 75x spread. The $10 customer and the $750 customer are not the same person.. but your website speaks to both with the same page. The small store sees "start free trial." The mid-market buyer needs ROI math and case studies.. and gets the same page as the $10 plan.
+
+What if instead → **Split the narrative. One path: "Getting started." One path: "Scaling revenue through support."**
+Let each buyer see themselves.
+
+Here's the question I can't shake: which customer is Gorgias really for — the $10/mo Shopify starter or the $750/mo brand? Because right now the website can't decide.. and neither can the visitor.
+
+—
+Simon Severino
+CEO, Strategy Sprints™ → strategysprints.com
+Author of *Strategy Sprints* and *Time Freedom* with Jay Abraham
+
+**Why this works:** Straight shot opener — no clever hook needed when the findings are sharp enough. The 75x pricing spread is a number that makes the blind spot undeniable.
 
 ---
 
-## Three Proven Openers (pick the one that fits)
+## Real example #3: Gong (Opener B — The Research Proof)
 
-All openers follow the same format: `{Name}, {provocative contradiction}. Here is my proposal:` — no name on its own line, no emoji in the opener, straight into the work.
+**Subject:** amit
 
-### Opener A — The Identity Contradiction
-> {Name}, your headline says "AI layer." Your body copy says "process mining." Your CTA says "Try for free." Three identities, one page. Here is my proposal:
+Amit,
 
-*Best when:* different parts of their site tell different stories (headline vs body vs CTA).
-*Why it works:* Names the contradiction they can't unsee. "Here is my proposal:" frames you as a strategist, not a critic.
+Your State of Revenue AI report says teams using Gong generate 77% more revenue per rep. Your homepage doesn't. Here's what I'd fix 🐬
 
-### Opener B — The Metric Contrast
-> {Name}, your homepage subheadline is 42 words long. Gong's is 6. Here is my proposal:
+⚡️ **Your best proof point is hiding behind a PDF download**
+77% more revenue per rep. That's your strongest number. But it lives in a gated report, not above the fold. Your homepage leads with "The #1 AI operating system for Revenue Teams" — a claim. The 77% is a proof. Claims get skipped. Proof stops the scroll.
 
-*Best when:* you found a specific metric, word count, or competitor comparison.
-*Why it works:* Two numbers. One contrast. Impossible not to keep reading.
+What if instead → **"Every customer interaction. Captured, understood, and turned into revenue."**
+Names the outcome. Feels like an OS. Doesn't need a superlative.
 
-### Opener C — The Founder vs. Website Gap
-> {Name}, you told an interviewer: "one very simple wedge." Your website tells a different story. Here is my proposal:
+⚡️ **Six personas, one homepage**
+CRO, RevOps, Sales, Customer Success, Enablement, Technology. Each one scrolls the same page hoping to find their story. The CRO evaluating Gong and the enablement manager evaluating Gong have different buying criteria.. but see the same funnel.
 
-*Best when:* the founder is active on content (podcast, LinkedIn, blog).
-*Why it works:* Quoting them back to themselves proves research depth.
+What if instead → **Split the entry. "I'm a CRO" → pipeline story. "I run enablement" → ramp story.**
+Two clicks. Not one generic page.
+
+🐯 **The move nobody is making → own the number**
+"Revenue AI OS" is a category you're trying to create. But categories take years. The 77% number is available NOW. No competitor can claim it. "Gong teams sell 77% more" is a position.. "Revenue AI OS" is an aspiration.
+
+What if instead → **Lead every page, every ad, every pitch with "77% more revenue per rep."**
+Own the number. Let the category follow.
+
+Here's the question I can't shake: if "Revenue AI OS" disappeared from your site tomorrow and was replaced with "77% more revenue per rep".. would you lose a single deal?
+
+—
+Simon Severino
+CEO, Strategy Sprints™ → strategysprints.com
+Author of *Strategy Sprints* and *Time Freedom* with Jay Abraham
+
+**Why this works:** Opener B — uses their own published data against their homepage. The 77% number is too good to bury, and pointing that out is a gift, not a critique.
 
 ---
 
-## The 13 Rules
+## The three openers
 
-1. **No pitch. Zero.** No mention of services, coaching, or anything that smells like selling — except the CTA at the very end
-2. **CTA at the end.** "I'd love to put another 30 minutes into strategizing with you. for free. Pick your best time:" + Calendly link
+Pick the one that fits your research. **Default to A** (it works most often).
+
+### Opener A — The Provocative Number _(default)_
+> Your homepage subheadline is 42 words long. Gong's is 6. Here's what I'd change 🐬
+
+Best when you found a specific metric, word count, or competitor comparison. Two numbers, one contrast — impossible not to keep reading.
+
+### Opener B — The Founder Quote / Research Proof
+> You told an interviewer: "one very simple wedge." Your website tells a different story. I wrote down what I'd fix 🐬
+
+Best when the founder is active on content or has published data. Quoting them back to themselves proves research depth.
+
+### Opener C — The Straight Shot
+> Three positioning gaps in {Company}'s website. One of them is costing you every visitor who leaves in under 8 seconds 🐬
+
+Best when you don't have a strong quote or number. "Costing you" leads with self-interest. Works for anyone.
+
+---
+
+## The 13 rules
+
+1. **No pitch. Zero.** No mention of services, coaching, or anything that smells like selling
+2. **No CTA.** No Calendly, no "let me know," no links in the body
 3. **No compliments.** Open with the work, not "I love what you're building"
-4. **Opener = one line.** `{Name}, {provocative contradiction}. Here is my proposal:` — no name on its own line, no emoji in the opener
-5. **Use THEIR language.** Quote their own words. Name their competitors
-6. **Every finding must include proposed new language.** "What if instead →" with actual copy they could paste
-7. **Finding 1 = positive.** Lead with their hidden strength (use ⚡️)
-8. **Finding 2 = actionable.** Numbers, word counts, competitor comparisons (use ⚡️)
-9. **Finding 3 = deep and surprising.** Longer than the others — specific data, dollar amounts, acquisitions, market moves, timeline pressure (use 🐯)
-10. **End with ONE sharp question.** Use *italic emphasis*. The kind that keeps them up at night
-11. **Use `..` for pauses.** Use `→` for transitions. Use ⚡️ for findings 1-2 and 🐯 for finding 3. No other emojis
+4. **Be specific enough to be wrong.** That's why it works
+5. **Use their language.** Quote their own words. Name their competitors
+6. **Every finding includes proposed new copy.** "What if instead →" with text they can paste
+7. **Finding 1 = their hidden strength.** Lead with what's working
+8. **Finding 2 = the gap that's costing them.** Numbers, word counts, comparisons
+9. **Finding 3 = the move nobody is making.** Name a category that doesn't exist yet
+10. **End with one sharp question.** The kind that keeps them up at night
+11. **Use `..` for pauses, `→` for transitions, `⚡️ 🐯 🐬` for visual rhythm**
 12. **Write like a human.** Short fragments. White space. Imperfect punctuation
-13. **Subject line = their first name.** Lowercase. Nothing else.
+13. **200-300 words.** Dense, visual, sharp. Not a report — a diagnosis
 
 ---
 
-## The Philosophy
+## When they reply
 
-Rick Rubin doesn't add production to make a song better. He strips everything away until the song can't hide.
+The diagnostic has no CTA. But when they reply (and they will), here's the move:
 
-This is the same principle applied to prospecting.
+1. **Acknowledge what they said.** Don't pivot to a pitch. Respond to their actual words.
+2. **Offer 30 minutes.** "Want to riff on this for 30 minutes? Here's my calendar: [Calendly link]"
+3. **That's it.** The diagnostic earned the trust. The call earns the relationship. The relationship earns the work.
 
-The diagnosis IS the pitch.
-The specificity IS the trust signal.
-The ratio IS the differentiator — 95% work, 5% ask.
-
-Everyone sends promises. Nobody sends the actual work, done, for free, before being asked.
+The sale doesn't start at the diagnostic — it starts at the reply. Don't ruin it by rushing.
 
 ---
 
 ## Installation
 
-### Claude Code (recommended)
-
-Copy `prospectingwork.md` to your Claude Code commands folder:
+### Claude Code
 
 ```bash
 cp prospectingwork.md ~/.claude/commands/prospectingwork.md
@@ -159,16 +216,20 @@ Then run:
 
 ### Manual
 
-Follow the 5-lens diagnostic framework in `prospectingwork.md` and use the email template above.
+Follow the 5-lens framework in `prospectingwork.md`. Research → diagnose → prescribe → send.
 
 ---
 
-## About Strategy Sprints
+## The philosophy
 
-Built by Simon Severino, author of *Strategy Sprints* (Kogan Page, 2022) and *Time Freedom* with Jay Abraham (2026).
+Rick Rubin doesn't add production to make a song better. He strips everything away until the song can't hide.
 
-**Sprint Club** — 256 founders from Los Angeles to Singapore making their organizations faster and more agile. Join at [strategysprints.com](https://strategysprints.com).
+The diagnosis IS the pitch.
+The specificity IS the trust signal.
+The absence of an ask IS the differentiator.
 
-**The Sales Show** — 800+ episodes on B2B sales acceleration. [YouTube](https://youtube.com/@strategysprints) | [Newsletter](https://thesalesshow.beehiiv.com)
+Everyone sends promises. Nobody sends the actual work, done, for free, before being asked.
 
-Great products deserve great distribution.
+---
+
+Built by [Simon Severino](https://strategysprints.com) — author of *Strategy Sprints* and *Time Freedom* with Jay Abraham. Added over $2 Billion in sales to B2B clients in finance, software, and consulting. Used daily inside [Sprint Club](https://strategysprints.com) by 251 founders across 72 countries.
