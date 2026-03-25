@@ -192,6 +192,54 @@ No follow-up needed. The work speaks or it doesn't.
 
 ---
 
+## Short Prospecting Email Template
+
+For Habit 2 / daily prospecting — shorter than the full diagnostic. Gold standard: **David Okuniev / Float (sent 2026-03-25)**.
+
+**Subject:** `{first name}` — lowercase, nothing else.
+
+**Structure:**
+```
+{Name}, I know you are {their specific mission/quote}. {Why it stuck with you... personal reaction}. {Bridge to their pain point}.
+
+🐬 I help {their type of company} sprint from great product to great sales in 90 days. {One specific proof point matching their situation}.
+
+If that resonates and you'd like a strategic sparring session.. here's 30 min on my calendar: https://calendly.com/simonseverino/30min
+
+Simon Severino
+Strategy Sprints — CEO
+https://strategysprints.com
+Author of Strategy Sprints (Kogan Page) and Time Freedom with Jay Abraham
+```
+
+**Gold standard example:**
+
+**Subject:** david
+
+David, I know you are building Float with taste as the moat. "In a world where language models do the heavy lifting, design is the differentiator." That line stuck with me... because it's exactly what I see with the B2B founders I work with. Great product. Intentionally small team. But the sales motion hasn't caught up yet.
+
+🐬 I help product-led B2B founders sprint from great product to great sales in 90 days. One of our clients (SaaS, 7-person team like yours) hit 130% revenue growth in one sprint.
+
+If that resonates and you'd like a strategic sparring session.. here's 30 min on my calendar: https://calendly.com/simonseverino/30min
+
+Simon Severino
+Strategy Sprints — CEO
+https://strategysprints.com
+Author of Strategy Sprints (Kogan Page) and Time Freedom with Jay Abraham
+
+**Why this works:**
+- Name on same line as text — flows into the paragraph, not isolated
+- "I know you are" — conviction, not observation
+- Quotes them back to themselves — proves research depth
+- ... for longer beats, .. for short pauses — sounds human
+- 🐬 starts a sentence — visual anchor, not floating decoration
+- "Strategic sparring session" — not "riff on it" or "chat"
+- 30min link — never 15min
+- Sign-off: books, not podcast
+- Short fragments. Conversational. Not template-y.
+
+---
+
 ## Real Example: Celonis (Bastian Nominacher)
 
 This is an actual positioning diagnostic sent 2026-03-24. Study the tone, the depth of Finding 3, the opener format, and the CTA placement.
