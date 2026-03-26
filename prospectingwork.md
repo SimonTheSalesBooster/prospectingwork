@@ -163,7 +163,10 @@ Author of Strategy Sprints (Kogan Page) and Time Freedom with Jay Abraham
 10. **End with ONE sharp question.** Use *italic emphasis*. The kind that keeps them up at night.
 11. **Use .. for pauses.** Use → for transitions. Use ⚡️ for findings 1-2 and 🐯 for finding 3. No other emojis. No 🐬.
 12. **Write like a human, not a robot.** Short fragments. White space. Imperfect punctuation. No corporate tone.
-13. **Total length: 300-500 words.** Dense, visual, sharp. Finding 3 gets the extra depth.
+13. **Total length: 200-280 words.** CEOs delete walls of text. Each finding is 3-4 sentences MAX. "What if instead →" stands ALONE — no explanation line after it.
+14. **Bold = what a CEO reads in a 4-second scan.** If they only read the bold parts, they should get the gist. Bold the knockout facts and proposed copy.
+15. **Italic = punchlines and emphasis.** The "aha" moments. The closing question.
+16. **Finding headers are SHORT.** "⚡️ You buried the knockout number" not "⚡️ You have the strongest social proof in subscription billing and it's buried below the fold."
 
 ### Step 6: Create Gmail draft
 
@@ -237,6 +240,67 @@ Author of Strategy Sprints (Kogan Page) and Time Freedom with Jay Abraham
 - 30min link — never 15min
 - Sign-off: books, not podcast
 - Short fragments. Conversational. Not template-y.
+
+---
+
+## PATH B: FAST GROWTH — Sales Training Gift
+
+Not every prospect needs a positioning diagnostic. **Fast-growing companies** (scaling teams, launching products, hitting milestones) have a different pain: their sales processes are breaking under the speed. For these prospects, lead with a **specific sales problem their team faces**, give **one sharp insight**, and offer the full session as the next step.
+
+**CRITICAL: This email must be SHORT. ~150 words. A CEO at a fast-growth company deletes anything longer.**
+
+### Structure
+
+```
+{Name}, {name the specific objection/problem their reps face every week}. Here's the problem: {what reps do wrong}.
+
+One insight that changes everything:
+
+**{The reframe — bold the core insight.}** {2-3 sentences with specific numbers proving why the reframe matters.}
+
+I built a full 60-minute session around this — **{what's included, bold for scannability}**. Your sales manager could run it tomorrow.
+
+Want me to walk your team through it live? 30 min to show you the session: https://calendly.com/simonseverino/coffee-with-simon
+
+Simon Severino
+CEO, Strategy Sprints™ → strategysprints.com
+Author of Strategy Sprints (Kogan Page) and Time Freedom with Jay Abraham
+```
+
+### Gold standard: Henry/ZoomInfo (2026-03-26)
+
+**Subject:** henry
+
+Henry, your reps hear "we found a cheaper alternative" every week. Apollo at $49/month. Cognism at half the price. Here's the problem: they're defending the price instead of reframing the conversation.
+
+One insight that changes everything:
+
+**The question isn't the cost of the tool. It's the cost of bad data at scale.** When 30% of dials hit former employees, your SDRs burn 2 hours a day on dead numbers. At $75K/year per SDR, that's **$37K in wasted salary per rep.** The $15K ZoomInfo bill suddenly looks small.
+
+I built a full 60-minute session around this — **the 3-step framework, exact scripts, and three role-play scenarios** built from ZoomInfo's actual selling situations (Mid-Market vs Apollo, Enterprise vs Cognism, SMB pricing pushback). Your sales manager could run it tomorrow.
+
+Want me to walk your team through it live? 30 min to show you the session: https://calendly.com/simonseverino/coffee-with-simon
+
+Simon Severino
+CEO, Strategy Sprints™ → strategysprints.com
+Author of Strategy Sprints (Kogan Page) and Time Freedom with Jay Abraham
+
+**Why this works:**
+- ~150 words. A CEO reads it in 30 seconds.
+- **Bold = the 4-second scan.** If they only read the bold, they get: "cost of bad data at scale" → "$37K wasted per rep" → "3-step framework, exact scripts, role-plays."
+- Names their actual competitors (Apollo, Cognism) — proves research.
+- Doesn't give away the full session — creates curiosity. The email is the trailer, not the movie.
+- "Your sales manager could run it tomorrow" — makes it feel real and useful, not theoretical.
+- CTA is a 30-min walkthrough, not "let's chat."
+
+### When to use PATH B vs PATH A
+
+| Signal | Path | Why |
+|--------|------|-----|
+| Weak positioning, confused messaging | **A: Diagnostic** | Their website contradicts itself — show them |
+| Fast growth, scaling team, product launches | **B: Sales Training** | Their team is breaking — give them something their manager can use tomorrow |
+| Founder active on content, strong opinions | **A: Diagnostic** | You can quote them back to themselves |
+| Large sales org (50+ reps) | **B: Sales Training** | Training gift is more relevant than website feedback |
 
 ---
 
