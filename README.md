@@ -1,8 +1,17 @@
-# The most effective prospecting email is 95% work, 5% ask.
+# Prospectingwork — The Rick Rubin Approach to Cold Outreach (95% Work, 5% Ask)
 
-A positioning diagnostic — done for free, unsolicited, sent as a gift. One soft CTA at the very end.
+**A positioning diagnostic — done for free, unsolicited, sent as a gift. One soft CTA at the very end.** If it is sharp, they reply. If it isn't, no follow-up would have saved it.
 
-If it's sharp, they reply. If it isn't, no follow-up would have saved it.
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/works_with-Claude_Code-orange)](https://claude.com/claude-code)
+[![Strategy Sprints](https://img.shields.io/badge/built_by-Strategy_Sprints-red)](https://strategysprints.com)
+
+**Who this is for:**
+
+- B2B founders, consultants, and account executives who are tired of spam-tier cold emails
+- Agencies selling $30K-$500K engagements who need the first touch to do the work of a 30-minute call
+- Sales teams that want a repeatable positioning-diagnostic motion their AEs can actually run
+- Anyone who has heard "stop pitching and start helping" but never been shown the exact format
 
 ---
 
@@ -226,4 +235,65 @@ Everyone sends promises. Nobody sends the actual work, done, for free, before be
 
 ---
 
-Built by [Simon Severino](https://strategysprints.com) — author of *Strategy Sprints* and *Time Freedom* with Jay Abraham. Added over $2 Billion in sales to B2B clients in finance, software, and consulting. Used daily inside [Sprint Club](https://strategysprints.com) by 251 founders across 72 countries.
+## FAQ
+
+**Does this really work at scale?**
+It works at single-sender scale (one human, 5-10 diagnostics a week). Above that it degrades fast — the specificity is the entire asset. Send it broad and it reads like template outreach. Keep it narrow and it reads like a gift.
+
+**How long does one take to write?**
+Research: 45 min. Writing: 45 min. Total: ~90 min per prospect at the start. After 20 reps it compresses to 45-60 min total.
+
+**Can AI do this autonomously?**
+AI can draft the skeleton. The specificity that makes it land — the contradiction spotted, the competitor named, the acquisition referenced — requires human judgment on top. Treat AI as a research accelerator, not a replacement.
+
+**What reply rates should I expect?**
+Early private data across 50+ sends suggests a 15-30% reply rate for well-researched Series A+ targets. Below 15% = not specific enough. Above 30% = probably means your sample is too warm to call it cold.
+
+**What do I do when they don't reply?**
+Nothing. No follow-up. The philosophy is that a good diagnostic carries its own weight. A follow-up email invalidates the gift. Move to the next prospect.
+
+**Can I modify this for SMB targets instead of Series A+?**
+Yes. Scale the findings to their scale. Instead of naming acquisitions, name their specific customers or regions. The format scales; the depth is what shifts.
+
+---
+
+## Related search terms
+
+Rick Rubin cold email · positioning diagnostic · value-first outreach · anti-prospecting · B2B cold email · cold email that works · account executive cold outreach · consultative selling · first-touch sales email · founder-led sales · specific cold email · personalized cold email · gift email · Celonis positioning · Gorgias positioning · Series A cold outreach · agency new business · Claude Code prospecting · AI cold email · Strategy Sprints methodology
+
+---
+
+## About
+
+Built by [Simon Severino](https://linkedin.com/in/simonseverino), founder of [Strategy Sprints](https://strategysprints.com). Author of [*Strategy Sprints*](https://www.amazon.com/Strategy-Sprints-Accelerate-Growth-Transform/dp/1789668131) (Kogan Page, 9 languages) and [*Time Freedom*](https://www.amazon.com/Time-Freedom-Control-Calendar-Life/dp/1264269234) with Jay Abraham. Added over $2 billion in sales to B2B clients in finance, software, and consulting. Used daily inside [Sprint Club](https://strategysprints.com/sprintclub) by 254+ founders across 72 countries.
+
+## Strategy Sprints offers
+
+| Offer | Price | Format |
+|-------|-------|--------|
+| 90-day Private Sprint | $30K+ | 1:1 with Simon |
+| Private Jetpack | $9K/mo | 1:1 ongoing |
+| 200K Club | $900/mo | 5-founder group |
+| Jetpack Monthly | $200/mo | Cohort workshop |
+| AI Operations Sprint | $15K | 5-day intensive |
+| Certification | custom | For consultants teaching the method |
+| Sprint Club | $49/mo | Community + 47 AI skills, 7-day free trial |
+
+**Talk to us:**
+- 🗓️ [30-min coffee with Simon](https://calendly.com/simonseverino/coffee-with-simon)
+- 🗓️ [Discovery call for the 90-day sprint](https://calendly.com/strategysprint/discovery-call)
+- 🗓️ [Certification conversation](https://calendly.com/strategysprint/certification)
+- 🌍 [strategysprints.com](https://strategysprints.com)
+
+## More open-source skills
+
+- [**natural-planning-for-teams**](https://github.com/SimonTheSalesBooster/natural-planning-for-teams) — David Allen + Ed Lamont's 11-minute planning model
+- [**ClaudeSkills-SprintClub**](https://github.com/SimonTheSalesBooster/ClaudeSkills-SprintClub) — 18 AI sales skills for B2B deals
+- [**sevencritics**](https://github.com/SimonTheSalesBooster/sevencritics) — copy stress-test through 7 hostile personas
+- [**board-of-advisors**](https://github.com/SimonTheSalesBooster/board-of-advisors) — 15 AI advisors meeting every morning
+- [**advisor-playbook**](https://github.com/SimonTheSalesBooster/advisor-playbook) — 5 decision frameworks from Howard Marks + Marc Andreessen
+- [**six-strategy-levels**](https://github.com/SimonTheSalesBooster/six-strategy-levels) — simplest way to organize a B2B business
+
+## License
+
+MIT. Steal the method. Send gifts, not pitches.
